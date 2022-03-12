@@ -1,5 +1,5 @@
 # SymposiumDashboard
-This dashboard was created in a team effort to create usable insights addressing the drastic changes in a local health system from Covid-19. The main PowerPoint presentation of it, a sample of its relational structure, and my segment of the dashboard presentation are accessible in this repository.
+This dashboard was created in a team effort to create usable insights addressing the drastic changes in a local health system from Covid-19. The main PowerPoint presentation of it, a sample of its database relational structure, and my segment of the dashboard presentation are accessible in this repository.
 
 The data for this dashboard is based on anonymized encounters from three locations in the GTA area, and our group was tasked with collectively deciding 10 insight aims, taking the raw data, putting it in a proper relational database structure, uploading it to Information Builders Web focus environment and manipulating it to create our dashboard.
 After deciding our group objective was to help the CFO make better decisions for budgeting, resource allocation, and decision support, we followed through a stakeholder analysis and SWOT analysis of the major components and began the process of massaging the raw data for our analysis.
